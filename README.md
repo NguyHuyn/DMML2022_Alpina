@@ -1,6 +1,5 @@
 # DMML2022_Alpina
-Sarah MOUGIN
-Huynh phuong trang NGUYEN
+Sarah MOUGIN & Huynh phuong trang NGUYEN
 
 ## Detecting the difficulty of an french text
 
