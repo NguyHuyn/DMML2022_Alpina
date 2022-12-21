@@ -7,6 +7,14 @@ Huynh phuong trang NGUYEN
 Our mission is to find the difficulty of the texts in the file unlabeled_data.csv, with the file traning_data.csv as source to train our different models.
 The start csv files and those produced by our models are stored in the "data" folder.
 The first models, such as Logistic Regression, KNN, Decision Tree Classifier, Random forest Classifier, were developed before the data cleaning process. Each model is developed in an .ipynb file, and all are stored in the "code" > "models_without_cleaning" folder.
-Puis, nous avons élaboré le processus de nettoyage dans le fichier "code" > cleaning.ipynb qui nous produit un nouveau dataset, appelé "data" > new_training_data.csv, sur lequel nous appliquons de nouveau les modèles testés auparavant, puis d'autres modèles telleques Lineare Regression. Ces derniers sont stockés dans le dossier "code > "model_with_cleaning".
+Then, we elaborated the cleaning process in the file "code" > cleaning.ipynb which produces a new dataset, called "data" > new_training_data.csv, on which we reapply the models tested before, and then other models such as Lineare Regression. These are stored in the folder "code > "model_with_cleaning".
 
-Les explications sur les processus et nos sources, sont détaillées dans le fichier "documentation" > doc.pdf
+Explanations about the processes and our sources are detailed in the file "documentation" > doc.pdf
+
+## Results
+
+We obtained the best accuracy with the process below:
+1. cleaning data
+2. linear regression
+
+with a precision of 0.51 on Colab and 0.49 on Kaggle concerning the unlabeled_data.
