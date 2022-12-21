@@ -12,8 +12,4 @@ Explanations about the processes and our sources are detailed in the file "docum
 
 ## Results
 
-We obtained the best accuracy with the process below:
-1. cleaning data
-2. linear regression
-
-with a precision of 0.51 on Colab and 0.49 on Kaggle concerning the unlabeled_data.
+We obtained the best accuracy with the process linear regression without cleaning, with a precision of 0.51 on Colab and 0.49 on Kaggle concerning the unlabeled_data.
