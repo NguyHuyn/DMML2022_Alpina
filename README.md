@@ -20,5 +20,7 @@ We obtained the best accuracy with the process linear regression without cleanin
 The csv file of the best result of unlabeled_data is in "documents" > "Language difficulty project.pdf" 
 
 ## Video Presentation
-[![Watch Our Video](https://img.youtube.com/vi/Uf5U5dViqrU/0.jpg)](https://www.youtube.com/watch?v=Uf5U5dViqrU)
-
+<p align="center">
+<[![Watch Our Video](https://img.youtube.com/vi/Uf5U5dViqrU/0.jpg)](https://www.youtube.com/watch?v=Uf5U5dViqrU)>
+</p>
+Click on the picture to be redirected 
