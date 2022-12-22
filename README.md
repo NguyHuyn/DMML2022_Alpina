@@ -1,7 +1,7 @@
 # DMML2022_Alpina
 Sarah MOUGIN & Huynh phuong trang NGUYEN
 
-## Detecting the difficulty of an french text
+## Detecting the difficulty of a french text
 
 Our mission is to find the difficulty of the texts in the file unlabeled_data.csv, with the file traning_data.csv as source to train our different models.
 The start csv files and those produced by our models are stored in the "data" folder.
