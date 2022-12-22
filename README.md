@@ -17,4 +17,4 @@ Explanations about the processes and our sources are detailed in the file "docum
 ## Results
 
 We obtained the best accuracy with the process linear regression without cleaning, with a precision of 0.516 on Colab and 0.49 on Kaggle concerning the unlabeled_data.
-The csv file of the best result of unlabeled_data is in "documentation" > "Language difficulty project.pdf" 
+The csv file of the best result of unlabeled_data is in "documents" > "Language difficulty project.pdf" 
