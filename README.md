@@ -21,3 +21,5 @@ The csv file of the best result of unlabeled_data is in "documents" > "Language 
 
 ## Video Presentation
 [![Watch the video]](https://youtu.be/Uf5U5dViqrU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Uf5U5dViqrU/0.jpg)](https://www.youtube.com/watch?v=Uf5U5dViqrU)
+
