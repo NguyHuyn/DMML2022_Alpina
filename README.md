@@ -21,6 +21,6 @@ The csv file of the best result of unlabeled_data is in "documents" > "Language 
 
 ## Video Presentation
 <p align="center">
-<[![Watch Our Video](https://img.youtube.com/vi/Uf5U5dViqrU/0.jpg)](https://www.youtube.com/watch?v=Uf5U5dViqrU)>
+<![Watch Our Video](https://img.youtube.com/vi/Uf5U5dViqrU/0.jpg)>(https://www.youtube.com/watch?v=Uf5U5dViqrU)>
 </p>
 Click on the picture to be redirected 
