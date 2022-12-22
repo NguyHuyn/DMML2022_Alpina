@@ -1,4 +1,4 @@
-<img src="documents/En-tête.png">
+<img src="documents/En-tête.png" width="200" >
 
 
 
